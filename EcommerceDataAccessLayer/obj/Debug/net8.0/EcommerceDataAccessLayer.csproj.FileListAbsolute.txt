@@ -1,0 +1,12 @@
+C:\Users\Abdel\OneDrive\Desktop\Programming\Backend Projects\EcommerceDataAccessLayer\bin\Debug\net8.0\EcommerceDataAccessLayer.deps.json
+C:\Users\Abdel\OneDrive\Desktop\Programming\Backend Projects\EcommerceDataAccessLayer\bin\Debug\net8.0\EcommerceDataAccessLayer.dll
+C:\Users\Abdel\OneDrive\Desktop\Programming\Backend Projects\EcommerceDataAccessLayer\bin\Debug\net8.0\EcommerceDataAccessLayer.pdb
+C:\Users\Abdel\OneDrive\Desktop\Programming\Backend Projects\EcommerceDataAccessLayer\obj\Debug\net8.0\EcommerceDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Abdel\OneDrive\Desktop\Programming\Backend Projects\EcommerceDataAccessLayer\obj\Debug\net8.0\EcommerceDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdel\OneDrive\Desktop\Programming\Backend Projects\EcommerceDataAccessLayer\obj\Debug\net8.0\EcommerceDataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Abdel\OneDrive\Desktop\Programming\Backend Projects\EcommerceDataAccessLayer\obj\Debug\net8.0\EcommerceDataAccessLayer.AssemblyInfo.cs
+C:\Users\Abdel\OneDrive\Desktop\Programming\Backend Projects\EcommerceDataAccessLayer\obj\Debug\net8.0\EcommerceDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Abdel\OneDrive\Desktop\Programming\Backend Projects\EcommerceDataAccessLayer\obj\Debug\net8.0\EcommerceDataAccessLayer.dll
+C:\Users\Abdel\OneDrive\Desktop\Programming\Backend Projects\EcommerceDataAccessLayer\obj\Debug\net8.0\refint\EcommerceDataAccessLayer.dll
+C:\Users\Abdel\OneDrive\Desktop\Programming\Backend Projects\EcommerceDataAccessLayer\obj\Debug\net8.0\EcommerceDataAccessLayer.pdb
+C:\Users\Abdel\OneDrive\Desktop\Programming\Backend Projects\EcommerceDataAccessLayer\obj\Debug\net8.0\ref\EcommerceDataAccessLayer.dll

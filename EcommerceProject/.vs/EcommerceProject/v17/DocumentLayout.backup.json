@@ -1,0 +1,302 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98066919-5B2F-4B9A-87A3-0CE231F33706}|EcommerceProject.csproj|c:\\users\\abdel\\onedrive\\desktop\\programming\\backend projects\\ecommerceproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98066919-5B2F-4B9A-87A3-0CE231F33706}|EcommerceProject.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98066919-5B2F-4B9A-87A3-0CE231F33706}|EcommerceProject.csproj|c:\\users\\abdel\\onedrive\\desktop\\programming\\backend projects\\ecommerceproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98066919-5B2F-4B9A-87A3-0CE231F33706}|EcommerceProject.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98066919-5B2F-4B9A-87A3-0CE231F33706}|EcommerceProject.csproj|c:\\users\\abdel\\onedrive\\desktop\\programming\\backend projects\\ecommerceproject\\controllers\\ordersdetialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98066919-5B2F-4B9A-87A3-0CE231F33706}|EcommerceProject.csproj|solutionrelative:controllers\\ordersdetialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98066919-5B2F-4B9A-87A3-0CE231F33706}|EcommerceProject.csproj|c:\\users\\abdel\\onedrive\\desktop\\programming\\backend projects\\ecommerceproject\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98066919-5B2F-4B9A-87A3-0CE231F33706}|EcommerceProject.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98066919-5B2F-4B9A-87A3-0CE231F33706}|EcommerceProject.csproj|c:\\users\\abdel\\onedrive\\desktop\\programming\\backend projects\\ecommerceproject\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98066919-5B2F-4B9A-87A3-0CE231F33706}|EcommerceProject.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD0480D-D2FA-4EE9-9A85-9E02A69B19EC}|..\\EcommerceDataAccessLayer\\EcommerceDataAccessLayer.csproj|c:\\users\\abdel\\onedrive\\desktop\\programming\\backend projects\\ecommercedataaccesslayer\\clsuserdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD0480D-D2FA-4EE9-9A85-9E02A69B19EC}|..\\EcommerceDataAccessLayer\\EcommerceDataAccessLayer.csproj|c:\\users\\abdel\\onedrive\\desktop\\programming\\backend projects\\ecommercedataaccesslayer\\clstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD0480D-D2FA-4EE9-9A85-9E02A69B19EC}|..\\EcommerceDataAccessLayer\\EcommerceDataAccessLayer.csproj|c:\\users\\abdel\\onedrive\\desktop\\programming\\backend projects\\ecommercedataaccesslayer\\clsproductdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD0480D-D2FA-4EE9-9A85-9E02A69B19EC}|..\\EcommerceDataAccessLayer\\EcommerceDataAccessLayer.csproj|c:\\users\\abdel\\onedrive\\desktop\\programming\\backend projects\\ecommercedataaccesslayer\\clsordersdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD0480D-D2FA-4EE9-9A85-9E02A69B19EC}|..\\EcommerceDataAccessLayer\\EcommerceDataAccessLayer.csproj|c:\\users\\abdel\\onedrive\\desktop\\programming\\backend projects\\ecommercedataaccesslayer\\clsorderdetailsdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD0480D-D2FA-4EE9-9A85-9E02A69B19EC}|..\\EcommerceDataAccessLayer\\EcommerceDataAccessLayer.csproj|c:\\users\\abdel\\onedrive\\desktop\\programming\\backend projects\\ecommercedataaccesslayer\\clsdataaccesssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD0480D-D2FA-4EE9-9A85-9E02A69B19EC}|..\\EcommerceDataAccessLayer\\EcommerceDataAccessLayer.csproj|c:\\users\\abdel\\onedrive\\desktop\\programming\\backend projects\\ecommercedataaccesslayer\\clscustomersdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7F9AE7-9652-43D0-A596-6B653A250E2A}|..\\EcommerceBusinessLayer\\EcommerceBusinessLayer.csproj|c:\\users\\abdel\\onedrive\\desktop\\programming\\backend projects\\ecommercebusinesslayer\\clsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7F9AE7-9652-43D0-A596-6B653A250E2A}|..\\EcommerceBusinessLayer\\EcommerceBusinessLayer.csproj|c:\\users\\abdel\\onedrive\\desktop\\programming\\backend projects\\ecommercebusinesslayer\\clsproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7F9AE7-9652-43D0-A596-6B653A250E2A}|..\\EcommerceBusinessLayer\\EcommerceBusinessLayer.csproj|c:\\users\\abdel\\onedrive\\desktop\\programming\\backend projects\\ecommercebusinesslayer\\clsorderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7F9AE7-9652-43D0-A596-6B653A250E2A}|..\\EcommerceBusinessLayer\\EcommerceBusinessLayer.csproj|c:\\users\\abdel\\onedrive\\desktop\\programming\\backend projects\\ecommercebusinesslayer\\clsorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7F9AE7-9652-43D0-A596-6B653A250E2A}|..\\EcommerceBusinessLayer\\EcommerceBusinessLayer.csproj|c:\\users\\abdel\\onedrive\\desktop\\programming\\backend projects\\ecommercebusinesslayer\\clscustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsTest.cs",
+              "DocumentMoniker": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceDataAccessLayer\\clsTest.cs",
+              "RelativeDocumentMoniker": "..\\EcommerceDataAccessLayer\\clsTest.cs",
+              "ToolTip": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceDataAccessLayer\\clsTest.cs",
+              "RelativeToolTip": "..\\EcommerceDataAccessLayer\\clsTest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T10:42:53.772Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceProject\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceProject\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAwwG4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T14:14:39.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceProject\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceProject\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwDIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T09:21:52.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersDetialsController.cs",
+              "DocumentMoniker": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceProject\\Controllers\\OrdersDetialsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersDetialsController.cs",
+              "ToolTip": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceProject\\Controllers\\OrdersDetialsController.cs",
+              "RelativeToolTip": "Controllers\\OrdersDetialsController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAowFQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:56:45.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceProject\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceProject\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T12:12:28.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceProject\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceProject\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAcwAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T19:25:27.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsUserDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceDataAccessLayer\\clsUserDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\EcommerceDataAccessLayer\\clsUserDataAccess.cs",
+              "ToolTip": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceDataAccessLayer\\clsUserDataAccess.cs",
+              "RelativeToolTip": "..\\EcommerceDataAccessLayer\\clsUserDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T18:53:50.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsProductDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceDataAccessLayer\\clsProductDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\EcommerceDataAccessLayer\\clsProductDataAccess.cs",
+              "ToolTip": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceDataAccessLayer\\clsProductDataAccess.cs",
+              "RelativeToolTip": "..\\EcommerceDataAccessLayer\\clsProductDataAccess.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAIwGMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T17:44:55.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsOrdersDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceDataAccessLayer\\clsOrdersDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\EcommerceDataAccessLayer\\clsOrdersDataAccess.cs",
+              "ToolTip": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceDataAccessLayer\\clsOrdersDataAccess.cs",
+              "RelativeToolTip": "..\\EcommerceDataAccessLayer\\clsOrdersDataAccess.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAA9wH8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:35:04.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsOrderDetailsDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceDataAccessLayer\\clsOrderDetailsDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\EcommerceDataAccessLayer\\clsOrderDetailsDataAccess.cs",
+              "ToolTip": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceDataAccessLayer\\clsOrderDetailsDataAccess.cs",
+              "RelativeToolTip": "..\\EcommerceDataAccessLayer\\clsOrderDetailsDataAccess.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwDwAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:04:47.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsDataAccessSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceDataAccessLayer\\clsDataAccessSettings.cs",
+              "RelativeDocumentMoniker": "..\\EcommerceDataAccessLayer\\clsDataAccessSettings.cs",
+              "ToolTip": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceDataAccessLayer\\clsDataAccessSettings.cs",
+              "RelativeToolTip": "..\\EcommerceDataAccessLayer\\clsDataAccessSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:43:54.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "clsCustomersDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceDataAccessLayer\\clsCustomersDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\EcommerceDataAccessLayer\\clsCustomersDataAccess.cs",
+              "ToolTip": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceDataAccessLayer\\clsCustomersDataAccess.cs",
+              "RelativeToolTip": "..\\EcommerceDataAccessLayer\\clsCustomersDataAccess.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:36:03.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "clsUser.cs",
+              "DocumentMoniker": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceBusinessLayer\\clsUser.cs",
+              "RelativeDocumentMoniker": "..\\EcommerceBusinessLayer\\clsUser.cs",
+              "ToolTip": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceBusinessLayer\\clsUser.cs",
+              "RelativeToolTip": "..\\EcommerceBusinessLayer\\clsUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T19:20:13.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "clsProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceBusinessLayer\\clsProduct.cs",
+              "RelativeDocumentMoniker": "..\\EcommerceBusinessLayer\\clsProduct.cs",
+              "ToolTip": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceBusinessLayer\\clsProduct.cs",
+              "RelativeToolTip": "..\\EcommerceBusinessLayer\\clsProduct.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T18:47:47.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "clsOrderDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceBusinessLayer\\clsOrderDetails.cs",
+              "RelativeDocumentMoniker": "..\\EcommerceBusinessLayer\\clsOrderDetails.cs",
+              "ToolTip": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceBusinessLayer\\clsOrderDetails.cs",
+              "RelativeToolTip": "..\\EcommerceBusinessLayer\\clsOrderDetails.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwEwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:40:09.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "clsOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceBusinessLayer\\clsOrder.cs",
+              "RelativeDocumentMoniker": "..\\EcommerceBusinessLayer\\clsOrder.cs",
+              "ToolTip": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceBusinessLayer\\clsOrder.cs",
+              "RelativeToolTip": "..\\EcommerceBusinessLayer\\clsOrder.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:39:18.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "clsCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceBusinessLayer\\clsCustomer.cs",
+              "RelativeDocumentMoniker": "..\\EcommerceBusinessLayer\\clsCustomer.cs",
+              "ToolTip": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceBusinessLayer\\clsCustomer.cs",
+              "RelativeToolTip": "..\\EcommerceBusinessLayer\\clsCustomer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:54:17.853Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

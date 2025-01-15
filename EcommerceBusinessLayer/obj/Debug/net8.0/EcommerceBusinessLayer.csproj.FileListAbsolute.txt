@@ -1,0 +1,15 @@
+C:\Users\Abdel\OneDrive\Desktop\Programming\Backend Projects\EcommerceBusinessLayer\bin\Debug\net8.0\EcommerceBusinessLayer.deps.json
+C:\Users\Abdel\OneDrive\Desktop\Programming\Backend Projects\EcommerceBusinessLayer\bin\Debug\net8.0\EcommerceBusinessLayer.dll
+C:\Users\Abdel\OneDrive\Desktop\Programming\Backend Projects\EcommerceBusinessLayer\bin\Debug\net8.0\EcommerceBusinessLayer.pdb
+C:\Users\Abdel\OneDrive\Desktop\Programming\Backend Projects\EcommerceBusinessLayer\bin\Debug\net8.0\EcommerceDataAccessLayer.dll
+C:\Users\Abdel\OneDrive\Desktop\Programming\Backend Projects\EcommerceBusinessLayer\bin\Debug\net8.0\EcommerceDataAccessLayer.pdb
+C:\Users\Abdel\OneDrive\Desktop\Programming\Backend Projects\EcommerceBusinessLayer\obj\Debug\net8.0\EcommerceBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Abdel\OneDrive\Desktop\Programming\Backend Projects\EcommerceBusinessLayer\obj\Debug\net8.0\EcommerceBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdel\OneDrive\Desktop\Programming\Backend Projects\EcommerceBusinessLayer\obj\Debug\net8.0\EcommerceBusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Abdel\OneDrive\Desktop\Programming\Backend Projects\EcommerceBusinessLayer\obj\Debug\net8.0\EcommerceBusinessLayer.AssemblyInfo.cs
+C:\Users\Abdel\OneDrive\Desktop\Programming\Backend Projects\EcommerceBusinessLayer\obj\Debug\net8.0\EcommerceBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Abdel\OneDrive\Desktop\Programming\Backend Projects\EcommerceBusinessLayer\obj\Debug\net8.0\Ecommerc.536661D7.Up2Date
+C:\Users\Abdel\OneDrive\Desktop\Programming\Backend Projects\EcommerceBusinessLayer\obj\Debug\net8.0\EcommerceBusinessLayer.dll
+C:\Users\Abdel\OneDrive\Desktop\Programming\Backend Projects\EcommerceBusinessLayer\obj\Debug\net8.0\refint\EcommerceBusinessLayer.dll
+C:\Users\Abdel\OneDrive\Desktop\Programming\Backend Projects\EcommerceBusinessLayer\obj\Debug\net8.0\EcommerceBusinessLayer.pdb
+C:\Users\Abdel\OneDrive\Desktop\Programming\Backend Projects\EcommerceBusinessLayer\obj\Debug\net8.0\ref\EcommerceBusinessLayer.dll

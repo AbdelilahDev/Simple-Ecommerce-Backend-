@@ -1,0 +1,226 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceProject\\EcommerceProject.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceBusinessLayer\\EcommerceBusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceBusinessLayer\\EcommerceBusinessLayer.csproj",
+        "projectName": "EcommerceBusinessLayer",
+        "projectPath": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceBusinessLayer\\EcommerceBusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\Abdel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceBusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Abdel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceDataAccessLayer\\EcommerceDataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceDataAccessLayer\\EcommerceDataAccessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceDataAccessLayer\\EcommerceDataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceDataAccessLayer\\EcommerceDataAccessLayer.csproj",
+        "projectName": "EcommerceDataAccessLayer",
+        "projectPath": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceDataAccessLayer\\EcommerceDataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\Abdel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceDataAccessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Abdel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceProject\\EcommerceProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceProject\\EcommerceProject.csproj",
+        "projectName": "EcommerceProject",
+        "projectPath": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceProject\\EcommerceProject.csproj",
+        "packagesPath": "C:\\Users\\Abdel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Abdel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceBusinessLayer\\EcommerceBusinessLayer.csproj": {
+                "projectPath": "C:\\Users\\Abdel\\OneDrive\\Desktop\\Programming\\Backend Projects\\EcommerceBusinessLayer\\EcommerceBusinessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
